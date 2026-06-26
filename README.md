@@ -1,6 +1,6 @@
 # Защищённый мессенджер «Эгида»
 
-![logo](assets\app_logo.png)
+![logo](assets/app_logo.png)
 
 ## Описание проекта
 
